@@ -3,6 +3,7 @@
 시험장·교실에 숨겨 둔 휴대폰과 무선 장치를 찾도록 돕는 안드로이드 앱 「Sherlock Phones」의 설치 파일(APK)을 올려 두는 곳입니다.
 
 - 새 버전은 [Releases](https://github.com/earthkimteacher/SherlockPhones-releases/releases)에 있습니다. 가장 위의 `SherlockPhones-x.y.apk`를 받으세요.
+- 앱 1.4부터는 앱 안에서 새 버전을 확인하고 받을 수 있습니다(설정 → 앱 업데이트). 새 버전이 있으면 아래 '설정' 탭에 빨간 점이 생깁니다.
 - 이미 설치되어 있으면 **덮어 설치**하세요. 기록·메모·학교 참여 상태가 그대로 남습니다.
 - 모든 APK는 같은 서명 키(인증서 SHA-256 `6e917c3ea4a3b80f99bab3c31190ca1eb3bb17c86b9e1d916955cb7c2818d0ee`)로 서명되어 있습니다. 서명이 다른 파일은 안드로이드가 덮어 설치를 막습니다.
 - 각 Release 설명에 APK의 SHA-256 값이 적혀 있습니다.
