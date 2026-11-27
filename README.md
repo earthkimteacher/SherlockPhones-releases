@@ -2,18 +2,27 @@
 
 시험장·교실에 숨겨 둔 휴대폰과 무선 장치를 찾도록 돕는 안드로이드 앱 「Sherlock Phones」의 설치 파일(APK)을 올려 두는 곳입니다.
 
-- 새 버전은 [Releases](https://github.com/earthkimteacher/SherlockPhones-releases/releases)에 있습니다. 가장 위의 `SherlockPhones-x.y.apk`를 받으세요.
-- 앱 1.4부터는 앱 안에서 새 버전을 확인하고 받을 수 있습니다(설정 → 앱 업데이트). 새 버전이 있으면 아래 '설정' 탭에 빨간 점이 생깁니다.
+## 바로 받기 (항상 최신 버전)
+
+**[SherlockPhones.apk 내려받기](https://github.com/earthkimteacher/SherlockPhones-releases/releases/latest/download/SherlockPhones.apk)**
+
+휴대폰 카메라로 아래 QR 코드를 찍어도 같은 파일을 받습니다. 새 버전이 나와도 이 링크와 QR 코드는 그대로이며, 늘 최신 버전을 받습니다.
+
+<img src="install-qr.png" alt="Sherlock Phones 설치 QR 코드" width="240">
+
+## 알아 두기
+- 지난 버전과 바뀐 내용은 [Releases](https://github.com/earthkimteacher/SherlockPhones-releases/releases)에 있습니다(`SherlockPhones-x.y.apk`).
+- 앱 3.0부터는 앱을 열 때 새 버전을 확인하고, 새 버전이 있으면 **업데이트가 있어요** 창에서 바로 설치합니다(설정 → 앱 업데이트에서도 됩니다).
 - 이미 설치되어 있으면 **덮어 설치**하세요. 기록·메모·학교 참여 상태가 그대로 남습니다.
 - 모든 APK는 같은 서명 키(인증서 SHA-256 `6e917c3ea4a3b80f99bab3c31190ca1eb3bb17c86b9e1d916955cb7c2818d0ee`)로 서명되어 있습니다. 서명이 다른 파일은 안드로이드가 덮어 설치를 막습니다.
 - 각 Release 설명에 APK의 SHA-256 값이 적혀 있습니다.
 
 ## 설치 방법
-1. 휴대폰에서 Releases의 APK를 누르거나, 카톡으로 받은 APK 파일을 엽니다.
+1. 위 QR 코드를 찍거나 **SherlockPhones.apk 내려받기**를 누릅니다. 브라우저가 경고하면 **다운로드**를 누르고, 받은 파일을 엽니다.
 2. "출처를 알 수 없는 앱" 경고가 나오면 **설정 → 이 출처 허용**을 켜고 뒤로 돌아와 **설치**를 누릅니다.
 3. Play 프로텍트가 "확인되지 않은 앱"이라고 하면 **세부정보 → 그래도 설치**를 누릅니다. (Play 스토어에 올리지 않은 학교용 앱이라 나오는 안내입니다.)
 4. 앱을 열고 안내에 따라 **허용**을 누른 뒤 이름을 적습니다.
-5. 학교 코드를 받았다면 **설정 → 학교와 함께 쓰기 → 학교 코드로 참여**에 8자리 코드를 넣습니다.
+5. **어떻게 쓰실 건가요?**에서 **관리자예요**(학교 만들기) · **만들어진 학교에 참여해요**(관리자에게 받은 8자리 코드) · **혼자 쓸게요** 중 하나를 고릅니다. 나중에 설정 → 학교와 함께 쓰기에서 바꿀 수 있습니다.
 6. Wi‑Fi를 실시간으로 보려면 '지금 주변' 화면의 노란 안내 → **실시간으로 바꾸는 방법 보기**를 따라 합니다.
 
 ## 요구 사항
